@@ -1,0 +1,8 @@
+{
+  "name": "CDVR Timestamp Fix",
+  "version": "1.0.0",
+  "description": "Universally injects the tvc-stream-timestamps='rewrite' tag into M3U outputs to resolve Channels DVR timestamp issues.",
+  "author": "ruckusvol",
+  "license": "MIT",
+  "repo_url": "https://github.com/ruckusvol/cdvr-timestamp-fix"
+}
